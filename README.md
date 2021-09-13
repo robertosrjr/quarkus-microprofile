@@ -1,6 +1,8 @@
-# microprofile Project
+# Microprofile Project
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
+
+This project aims to test quarkus in    [Microprofiles/(https://microprofile.io/) patterns.
 
 If you want to learn more about Quarkus, please visit its website: https://quarkus.io/ .
 
@@ -52,3 +54,23 @@ If you want to learn more about building native executables, please consult http
 Easily start your RESTful Web Services
 
 [Related guide section...](https://quarkus.io/guides/getting-started#the-jax-rs-resources)
+
+# Ref.:
+https://quarkus.io/blog/quarkus-eclipse-microprofile-3-3/
+
+# Extensions:
+- resteasy
+- resteasy-jackson
+
+## REST CLIENT
+- rest-client,
+- rest-client-jackson
+
+## Fault Tolerance
+- smallrye-fault-tolerance
+
+## HEALTH
+- smallrye-health
+
+## METRICS
+- smallrye-metrics
