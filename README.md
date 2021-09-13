@@ -2,7 +2,7 @@
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
-This project aims to test quarkus in    [Microprofiles/(https://microprofile.io/) patterns.
+This project aims to test quarkus in    [Microprofiles](https://microprofile.io/) patterns.
 
 If you want to learn more about Quarkus, please visit its website: https://quarkus.io/ .
 
