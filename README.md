@@ -17,7 +17,10 @@ If you want to learn more about Quarkus, please visit its website: https://quark
 - quarkus-smallrye-health
   - smallrye-health
 
-## METRICSquarkus-rest-client-jackson
+## METRICS
+### MICROMETER METRICS
+- quarkus-micrometer-registry-prometheus
+
 ### SMALLRYE METRICS
 - quarkus-smallrye-metrics
   - resteasy
