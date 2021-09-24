@@ -1,32 +1,31 @@
-# microprofile Project
+# [Microprofile Project](https://quarkus.io/blog/quarkus-eclipse-microprofile-3-3/)
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
 If you want to learn more about Quarkus, please visit its website: https://quarkus.io/ .
 
-
 ## FAULT TOLERANCE
-### SMALLRYE FAULT TOLERANCE
+### [SMALLRYE FAULT TOLERANCE](https://quarkus.io/guides/smallrye-fault-tolerance)
 - quarkus-smallrye-fault-tolerance
   - resteasy
   - smallrye-fault-tolerance
   - resteasy-jackson
 
 ## HEALTH
-### SMALLRYE HEALTH
+### [SMALLRYE HEALTH](https://quarkus.io/guides/smallrye-health)
 - quarkus-smallrye-health
   - smallrye-health
 
 ## METRICS
-### MICROMETER METRICS
+### [MICROMETER METRICS](https://quarkus.io/guides/micrometer)
 - quarkus-micrometer-registry-prometheus
 
-### SMALLRYE METRICS
+### [SMALLRYE METRICS](https://quarkus.io/guides/smallrye-metrics)
 - quarkus-smallrye-metrics
   - resteasy
   - smallrye-metrics
 
-## REST CLIENT
+## [REST CLIENT](https://quarkus.io/guides/rest-client)
 - quarkus-rest-client
 - quarkus-rest-client-jackson
   - resteasy
