@@ -4,6 +4,8 @@ This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
 If you want to learn more about Quarkus, please visit its website: https://quarkus.io/ .
 
+O MicroProfile é uma definição de plataforma de linha de base que otimiza Enterprise Java para uma arquitetura de microsserviços e oferece portabilidade de aplicativo em vários tempos de execução MicroProfile . ... Java EE criou um conjunto de especificações definidas primeiro pela Sun Microsystems e depois pela Oracle por meio do Java Community. (https://www.tomitribe.com/blog/what-is-eclipse-microprofile/)
+
 ## FAULT TOLERANCE
 ### [SMALLRYE FAULT TOLERANCE](https://quarkus.io/guides/smallrye-fault-tolerance)
 - quarkus-smallrye-fault-tolerance
