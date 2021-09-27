@@ -27,7 +27,8 @@ O MicroProfile é uma definição de plataforma de linha de base que otimiza Ent
   - resteasy
   - smallrye-metrics
 
-## [REST CLIENT](https://quarkus.io/guides/rest-client)
+## REST CLIENT
+### [REST CLIENT](https://quarkus.io/guides/rest-client)
 - quarkus-rest-client
 - quarkus-rest-client-jackson
   - resteasy
